@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    margin: 2px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
